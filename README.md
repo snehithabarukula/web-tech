@@ -16,8 +16,7 @@ In recent years, we can observe the rapid growth of software engineering and dev
 ## System Requirements 
 MySQL web applications can be run on almost any machine :Windows, macOS, Linux/Unix, Solaris, to name just a few. Almost any computer should have the necessary performance to run Django during development.
 
-FOR WINDOWS- Windows 7 version OS, 800MHz Intel Pentium III or equivalent processor, 512MB memory and an additional 250 MB of free disk space.
-FOR UBUNTU- 9.10 version, 800MHz Intel Pentium III or equivalent processor, 512 MB memory and an additional 150 MB of free disk space.
-FOR MAC OS- 10.7 Intel version, Dual-Core Intel processor, 512 memory and additional 150 MB of free disk space.
-Latest version of python. Python 2.7 cannot be used with the current releases of Django (The Django 1.11.x series is the last to support Python 2.7).
+- FOR WINDOWS- Windows 7 version OS, 800MHz Intel Pentium III or equivalent processor, 512MB memory and an additional 250 MB of free disk space.
+- FOR UBUNTU- 9.10 version, 800MHz Intel Pentium III or equivalent processor, 512 MB memory and an additional 150 MB of free disk space.
+- FOR MAC OS- 10.7 Intel version, Dual-Core Intel processor, 512 memory and additional 150 MB of free disk space. Latest version of python. Python 2.7 cannot be used with the current releases of Django (The Django 1.11.x series is the last to support Python 2.7).
 
